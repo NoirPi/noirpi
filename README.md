@@ -10,9 +10,6 @@
 <a href="https://gist.github.com/noirpi">
   <img src="https://badges.pufler.dev/gists/noirpi?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/commits/monthly/noirpi?style=flat-square&color=black&logo=github">
-</a>
 
 Most of my time i create Applications, Bots, and Bashscripts to automate my Server Management.
 
