@@ -2,14 +2,7 @@
 ![I'm a tech enthusiast from **Rhineland-Palatinate, Germany**.](https://i.ibb.co/Qf4zQrq/banner.png)
 
 ![Profile views](https://gpvc.arturio.dev/NoirPi) <a href="https://github.com/noirpi">
-  <img src="https://badges.pufler.dev/years/noirpi?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://github.com/noirpi?tab=repositories">
-  <img src="https://badges.pufler.dev/repos/noirpi?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://gist.github.com/noirpi">
-  <img src="https://badges.pufler.dev/gists/noirpi?style=flat-square&color=black&logo=github">
-</a>
+
 
 Most of my time i create Applications, Bots, and Bashscripts to automate my Server Management.
 
