@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm NoirPi
-![I'm a tech enthusiast from **Rhineland-Palatinate, Germany**.](https://i.ibb.co/Qf4zQrq/banner.png)
+![I'm a tech enthusiast from **Rhineland-Palatinate, Germany**.](https://cdn.noircoding.de/files/MKRIYWIOOPEQ)
 
 
 Most of my time i create Applications, Bots, and Bashscripts to automate my Server Management.
