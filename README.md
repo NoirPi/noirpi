@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm NoirPi
 ![I'm a tech enthusiast from **Rhineland-Palatinate, Germany**.](https://i.ibb.co/Qf4zQrq/banner.png)
 
-![Profile views](https://gpvc.arturio.dev/NoirPi) <a href="https://github.com/noirpi">
-
 
 Most of my time i create Applications, Bots, and Bashscripts to automate my Server Management.
 
@@ -31,15 +29,3 @@ Skills: Python / Bash / JS / HTML / CSS / Networking / Discord Bots / Linux
 📫 Reach out to me via [Email](mailto:noirpi@noircoding.de) or [Discord](https://discord.gg/R6qAmWy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoirPi&show_icons=true&count_private=true)  
-
-## Projects:
-
-## <a href="https://www.codingsquad.net"> <img src="https://cdn.codingsquad.net/cs_logo128.png" height="48px"></a> **CodingSquad Development [Discord](https://codingsquad.net/)**
-## <a href="https://top.gg/bot/533956696347901972"> <img src="https://i.ibb.co/YX1DfTc/logo-noir.png" height="48px"></a> **PiBot [Discord Bot](https://top.gg/bot/533956696347901972)**
-## <a href="https://discordapp.com/oauth2/authorize?client_id=503988007347552267&scope=bot"> <img src="https://cdn.discordapp.com/avatars/503988007347552267/72f6b45d96f01a478a6ded8695f4d4e4.webp" height="48px"></a> **DocsBot [Discord Bot](https://discordapp.com/oauth2/authorize?client_id=503988007347552267&scope=bot)**
-## <a href="https://www.noircoding.de"> <img src="https://i.ibb.co/YX1DfTc/logo-noir.png" height="48px"></a> **NoirCoding Development [Discord](https://discord.gg/R6qAmWy)**
-
-## Open Projects:
-## <a href="#"> <img src="https://cdn.discordapp.com/avatars/700672221063938080/3b1321fccb8874f6bf246c6560013d65.webp" height="48px"></a> **Rampage Discord Bot**
-
-
